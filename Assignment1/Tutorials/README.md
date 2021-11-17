@@ -4,14 +4,14 @@ Here the Tutorials and data files are stored
 Note that some instruction video's might refer to other file locations / installation of packages. But all required files for the tutorials are located here.
 
 
-### 1st tutorial *   
+## 1st tutorial *   
 > iris-classification-random-forest.ipynb
 
 In the first tutorial you will be building a classification model for the Iris data set using the random forest algorithm. Although this already dives deep into the Machine learning topic, it are easy to follow steps
 
 You will learns about jupyter notebooks, importing libraries and datasets, looking at your data, preprocessing your data for learning and deploying and evaluating your learned model.
 
-### 2nd Tutorial *
+## 2nd Tutorial *
 
 > comparing-classifiers.ipynb
 
@@ -22,7 +22,7 @@ You will create a dataset with random data, will see how you can visualize parts
 Note that seaborne is not available on the Jetson, so results are plotted using mathplotlib or pandas.
 
 
-# 3th Tutorial **
+## 3th Tutorial **
 
 > Project_Comparing_Machine_Learning_Algorithms.ipynb
 
