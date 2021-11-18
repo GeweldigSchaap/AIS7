@@ -1,4 +1,5 @@
-Assignment 1 will consist of Two parts (A and B)
+# Assignment 1
+This assignment Assignment will consist of Two parts (A and B)
 
 Part A will be about getting acquainted with all tools / hardware / environments and deploying your first learning algorithms on relative simple datasets
 
@@ -11,7 +12,7 @@ Before you can start with the first assignment you should first setup your hardw
 
 Read these documents first:
 - [Background Information](Background_information.md) on used hardware / software.
-- Howto Install the software and connect to your Jetson
+- Make sure you assmbled the hardware and installed the required software and connect to your Jetson
 
 ## Tutorials
 
