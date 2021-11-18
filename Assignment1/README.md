@@ -12,7 +12,7 @@ Before you can start with the first assignment you should first setup your hardw
 
 Read these documents first:
 - [Background Information](Background_information.md) on used hardware / software.
-- Make sure you assmbled the hardware and installed the required software and connect to your Jetson
+- Make sure you assembled the hardware and installed the required software and connect to your Jetson
 
 ## Tutorials
 
