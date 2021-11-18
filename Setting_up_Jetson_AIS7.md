@@ -72,7 +72,8 @@ To fix the screen resolution to something more user friendly, open _LXTerminal_ 
 
 ```$ sudo ./set_screen_resolution```
 
-##Connect to the Jupyter notebook
+## Connect to the Jupyter notebook
+
 For Assignment 1, you will use [Jupyter notebooks](https://jupyter.org/) to follow the tutorials and to develop your assignment.
 
 To be able to access/start the Jupyter notebook in the jetson, then, in the terminal type:
