@@ -28,7 +28,7 @@ We have prepared a Jetson Nano (2GB), a case for protecting the Jetson Nano and 
 
 * **Be aware!, you cannot start your assignment without following this steps**
 
-1. Make sure that you already have build the case for the Jetson as described [Here](https://www.okdo.com/wp-content/uploads/2021/03/assembly-instructions-OKdo-Jetson-nano2-GB-Metal-case.pdf).
+1. Make sure that you already have build the case for the Jetson as described [Here](https://www.okdo.com/wp-content/uploads/2021/03/assembly-instructions-OKdo-Jetson-nano2-GB-Metal-case.pdf). Please!, make sure that you install all the components including the SD card protection, screws and Power Button. **When installing the power button you must use ESD Protection, if you don't have the ESD protection, then better mount it without connecting the cables (we don't want to lose the power buttons.) **
 2. Follow the steps described in the [Setting up Jetson AIS7.md](https://github.com/fontysrobotics/AIS7/blob/main/Setting_up_Jetson_AIS7.md) file. 
 
 
