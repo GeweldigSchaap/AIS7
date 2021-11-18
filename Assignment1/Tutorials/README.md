@@ -1,7 +1,7 @@
 # Tutorials:
-Here the Tutorials and data files are stored
+We provide you with some utorials and data files, which are located in this folder
 
-Note that some instruction video's might refer to other file locations / installation of packages. But all required files for the tutorials are located here.
+Note: that some instruction video's might refer to other file locations / installation of packages. But all required files for the tutorials are located here.
 
 
 ## 1st tutorial *   
