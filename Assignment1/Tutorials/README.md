@@ -1,5 +1,6 @@
 # Tutorials:
-We provide you with some utorials and data files, which are located in this folder
+We provide you with some torials and data files, which are located in this folder
+In these tutorials you gain the required knowledge to work with sklear, pandas, etc and will enable you to be able to make the first assignment.
 
 Note: that some instruction video's might refer to other file locations / installation of packages. But all required files for the tutorials are located here.
 
