@@ -1,9 +1,9 @@
 # Assignment 1
 This assignment Assignment will consist of Two parts (A and B)
 
-Part A will be about getting acquainted with all tools / hardware / environments and deploying your first learning algorithms on relative simple datasets
+* Part A will be about getting acquainted with all tools / hardware / environments and deploying your first learning algorithms on relative simple datasets
 
-Part B will be about analyzing and deploying machine learning on more complex datasets as on your own generated dataset
+* Part B will be about analyzing and deploying machine learning on more complex datasets as on your own generated dataset
 
 Before you can start with the first assignment you should first setup your hardware, install the required software and follow some tutorials.
 
