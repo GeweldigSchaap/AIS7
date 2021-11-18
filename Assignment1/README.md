@@ -23,6 +23,8 @@ The knowledge learned from these tutorials will be required for making the Assig
 
 ## Assignment 1 - Part A
 
+> [Assignment1_PART_A.ipynb](Assignment1_PART_A.ipynb}
+
 You can find a jupyter notebook in here.
 This notebook contains the assignment description.
 
