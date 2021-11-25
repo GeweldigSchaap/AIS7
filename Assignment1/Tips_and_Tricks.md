@@ -9,7 +9,7 @@ Note that the jetson doesn't have all graphical packages installed (e.g. seaborn
 To download a dataset from the internet you can use the [wget](https://en.wikipedia.org/wiki/Wget) command, this is a linux command. The exclamation mark (!) tells python that it should execute a linux commmand instead of python code. In this case the downloaded file is renamed to data.zip, which is saved on the jetson.
 
 ```
-!wget https://github.com/fontysrobotics/AIS7/blob/main/Assignment1/HAR.zip -O data.zip
+!wget https://github.com/fontysrobotics/AIS7/blob/main/Assignment1/Dataset/HAR.zip -O data.zip
 ```
 
 To unzip, you can use the following python code
