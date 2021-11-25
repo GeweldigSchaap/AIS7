@@ -9,7 +9,7 @@ This assignment Assignment will consist of Two parts (A and B)
 Before you can start with the first assignment you should first setup your hardware, install the required software and follow some tutorials.
 
 
-![](https://hackster.imgix.net/uploads/attachments/1064985/_5jBZzuJXWT.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
+![](https://hackster.imgix.net/uploads/attachments/1064985/_5jBZzuJXWT.blob?auto=compress%2Cformat&w=900&h=675&fit=min =250x)
 
 
 ## Preparation
