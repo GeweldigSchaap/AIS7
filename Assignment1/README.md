@@ -53,7 +53,7 @@ Final deliverables Assignment 1:
 * Notebooks Part A, Part B1, Part B2 (saved after execution, so all outputs are visible)
 * A pdf of these notebooks in the same state (as backup)
 * Your custom data(sets), so we can run your code
-* A video (max 3 minutes) explaining & showing the process and result of Part B2
+* A video (max 3 minutes) explaining & showing the process from dataset creation to final result of Part B2
 
 ## Hints
 
