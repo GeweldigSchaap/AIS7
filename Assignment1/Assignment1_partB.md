@@ -26,7 +26,7 @@ After finishing the previous classification, you will get to create your own dat
 
 The UCI HAR dataset used is divided into train.csv and test.csv. You can get to know more about the UCI HAR dataset [Here](./Dataset/A%20Public%20Domain%20Dataset%20for%20Human%20Activity.pdf). You are required to perform all the steps described in the **Notebook XXXX** 
 and remember that **you must always have to normalized your data (if needed) and perform dimentionality reduction (if possible)**. Not doing so, will influence your final mark, to avoid getting a reduction, it is recommended to calculate the correlation matrix and identify which features are highly correlated. Remember that most features are expressed as components of x, y and z.
-You can use the following [tutorial](https://www.kaggle.com/dixittrivedi/humanactivityrecognition/notebook) as an example/guide for performing all the needed steps while getting to train, test, identify and deploy your ML models. **You must fill in all the different steps in the Notebook [Assignment1_PART_B_1.ipynb](Assignment1_PART_B_1.ipynb) and answer the questions based on your process and results**
+You can use the following [Example](https://www.kaggle.com/dixittrivedi/humanactivityrecognition/notebook) for performing all the needed steps while getting to train, test, identify and deploy your ML models. **You must fill in all the different steps in the Notebook [Assignment1_PART_B_1.ipynb](Assignment1_PART_B_1.ipynb) and answer the questions based on your process and results**
 
 
 ## Your Own dataset (part B2)
