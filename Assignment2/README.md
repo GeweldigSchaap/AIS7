@@ -18,8 +18,7 @@ The description of Part A can be found here:
 
 ## Part B
 
-The description of Part B can be found here:
-[PartB_ConvolutionalNeuralNetworks.md](PartB_ConvolutionalNeuralNetworks.md)
+Will be published here this week
 
 
 ## Part C
