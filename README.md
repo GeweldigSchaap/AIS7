@@ -36,5 +36,5 @@ We have prepared a Jetson Nano (2GB), a case for protecting the Jetson Nano and 
 ## Start your Assignment
 
 1. For Assignment 1, please refer to [Assignment1](https://github.com/fontysrobotics/AIS7/tree/main/Assignment1) for getting to know more regarding your assignment.
-2. For Assignment 2, [Assignment22](Assignment2/README.md)
+2. For Assignment 2, please refer to [Assignment2](Assignment2/README.md) for getting to know more regarding your assignment.
 
