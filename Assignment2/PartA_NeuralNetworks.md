@@ -35,7 +35,8 @@ In this Assignment you are going to classify a fashion dataset.
   * Describe the implemented network architecture.
   * How many parameters does this network have, and where in the network are these located?
   * Visualize & explain the learning curves (loss, accuracy)
-  * Which hyperparameter result in better training results? Explain the parameters.
+  * Explain what hyperparameters are available and what they do.
+  * Which hyperparameter result in better training results? 
   * What is the final accuracy of the trained Network?
   * In which way could the network accuracy be improved further (only explanation, no implementation)?
 * The notebook should contain al code, outputs and answers to the given questions (so make sure we can find all needed info)
